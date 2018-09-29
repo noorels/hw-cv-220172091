@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"txta",
+				"text-align"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"s",
+				"flex-start"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ma",
+				"marker-start"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"border",
+				"border-bottom-width"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"te",
+				"text-decoration-line"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"sa",
+				"space-between"
+			],
+			[
+				"fi",
+				"flex-direction"
+			],
+			[
+				"d",
+				"direction"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"backg",
+				"background-attachment"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"lig",
+				"line-height"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/cv.html",
+		"/C/Users/HP 15-bs/Desktop/homework2.html",
+		"/C/Users/HP 15-bs/Desktop/homework2.css",
+		"/C/Users/HP 15-bs/Desktop/css/expert.css",
+		"/C/Users/HP 15-bs/Desktop/expert.txt",
+		"/C/Users/HP 15-bs/Desktop/homework.html",
+		"/C/Users/HP 15-bs/Desktop/style.css",
+		"/C/Users/HP 15-bs/Desktop/expert.html",
+		"/C/Users/HP 15-bs/Desktop/homework/homework.html",
+		"/C/Users/HP 15-bs/Desktop/homework/style.css",
+		"/C/Users/HP 15-bs/Desktop/homework/final-1.html",
+		"/C/Users/HP 15-bs/Desktop/homework/imgs/cofee.jpg",
+		"/C/Users/HP 15-bs/Desktop/final-1.html",
+		"/C/Users/HP 15-bs/Desktop/homework/img.jpg",
+		"/C/Users/HP 15-bs/Desktop/homework/645.jpg",
+		"/C/Users/HP 15-bs/Downloads/n97qefrhsl5p.htm",
+		"/C/Users/HP 15-bs/Downloads/table (1).html",
+		"/C/Users/HP 15-bs/Downloads/Assigment1.html",
+		"/C/Users/HP 15-bs/Downloads/table.html",
+		"/C/Users/HP 15-bs/Downloads/css.html",
+		"/C/Users/HP 15-bs/Desktop/css.html",
+		"/E/تدريب.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cv.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
